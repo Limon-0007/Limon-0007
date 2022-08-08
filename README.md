@@ -5,7 +5,7 @@
 #### Skills: BOOTSTRAP / JS / HTML / CSS
 
 ### 🔭 I’m currently learning <i>JAVASCRIPT</i>. 
-### 💬 Ask me about web development 
+### 💬 Ask me about <i>WEB DEVELOPMENT</i>. 
 
 
 
