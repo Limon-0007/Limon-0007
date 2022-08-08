@@ -1,5 +1,5 @@
-# Hi there 👋, my name is Limon Ahmed
-###### I am a Frontend web developer
+# Hi there, My Name Is Limon Ahmed
+##### I am a Frontend web developer
 ![I am a Frontend web developer](https://pbs.twimg.com/profile_images/1556624868954714112/iWZ8ovvL_400x400.jpg)
  
 Skills: BOOTSTRAP / JS / HTML / CSS
