@@ -4,7 +4,7 @@
  
 Skills: BOOTSTRAP / JS / HTML / CSS
 
--### 🔭 I’m currently learning <i>JAVASCRIPT</i>. 
+### 🔭 I’m currently learning <i>JAVASCRIPT</i>. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Limon-0007)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/limon-ahmed-236189246/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/limon.mahmud.50596)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/limon.mahmud.50596/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@ah96305012)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://studio.youtube.com/channel/UCV7YOD4k9Dex3LvMwf64F9Q/editing/images)  
